@@ -1,9 +1,9 @@
 #include <iostream>
 #include <cmath>
 
-using namespace std;
-int main()
-{
+//using namespace std;
+//int main()
+//{
 	double a;
 	double z1;
 	double z2;
